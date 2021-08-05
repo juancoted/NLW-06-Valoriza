@@ -1,2 +1,22 @@
-# NLW-06-Valoriza
-Projeto realizado junto com os instrutores da Rocketset no evento Next Level Week, onde foi usado NodeJS para construir uma API responsiva.
+# NLW Valoriza
+
+## Regras
+
+- Cadastro de usuários
+    [x] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+
+    [x] Não é permitido cadastrar usuário sem e-mail
+
+- Cadastro de TAG
+    [ ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+
+    [ ] Não é permitido cadastrar tag sem nome
+
+    [ ] Não é permitido o cadastro por usuários que não sejam administradores
+
+- Cadastro de elogios
+    [ ] Não é permitido um usuário cadastrar um elogio para si
+
+    [ ] Não é permitido cadastrar elogios para  usuários inválidos
+
+    [ ] O usuário precisa estar autentificado na aplicação
